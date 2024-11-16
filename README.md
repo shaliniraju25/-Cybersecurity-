@@ -37,13 +37,8 @@ Cybersecurity incidents are becoming more frequent and sophisticated. The goal o
 2. **Exploratory Data Analysis (EDA)**:
    - Investigated incident frequency, attack vectors, and correlations between features.
    - Visualized the top incident categories and trends over time.
-   <img width="424" alt="image" src="https://github.com/user-attachments/assets/c911b128-f7e8-47c7-a6fc-10562255fc82">
-   <img width="259" alt="image" src="https://github.com/user-attachments/assets/800b7d70-7d0f-48d6-be2f-c2a3553b6fd7">
-   <img width="260" alt="image" src="https://github.com/user-attachments/assets/8836fffe-e22d-4f08-9e4a-2a801e37a310">
-   <img width="271" alt="image" src="https://github.com/user-attachments/assets/35c2aa29-3420-4ac5-83dd-06139a510047">
-   <img width="535" alt="image" src="https://github.com/user-attachments/assets/7a689f21-4784-4ff3-9e50-cce972382feb">
-   <img width="331" alt="image" src="https://github.com/user-attachments/assets/88fc0283-dcdb-477f-b031-d99b62b3e43d">
-   <img width="397" alt="image" src="https://github.com/user-attachments/assets/6f6ef6be-91fd-4571-a986-fd7b1ac130d4">
+   ![image](https://github.com/user-attachments/assets/01723739-dadd-4b80-baa3-2765ad1734cf)
+
 
 ### II. Data Balancing Techniques
 
