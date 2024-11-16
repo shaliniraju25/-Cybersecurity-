@@ -39,10 +39,11 @@ Cybersecurity incidents are becoming more frequent and sophisticated. The goal o
    - Visualized the top incident categories and trends over time.
      
 ![image](https://github.com/user-attachments/assets/01723739-dadd-4b80-baa3-2765ad1734cf)
-![image](https://github.com/user-attachments/assets/ae9f2b1f-d53f-4de3-aae8-b5f11b05bb98)
-![image](https://github.com/user-attachments/assets/afaf7b7e-59a5-4899-bd0e-41695634e504)
-![image](https://github.com/user-attachments/assets/b334ab45-f346-490a-a574-c6f0bf6ab493)
-![image](https://github.com/user-attachments/assets/7a7a4dd8-869c-4779-a672-7576aef84406)
+![image](https://github.com/user-attachments/assets/f8a2229b-8faf-4fb3-9492-8bb06101ee3b)
+![image](https://github.com/user-attachments/assets/02857e5a-e7a5-455c-9b6b-986fc45470a0)
+![image](https://github.com/user-attachments/assets/39cf37e2-0ae1-42be-957d-4f599f5f2c16)
+![image](https://github.com/user-attachments/assets/73d2a984-f04e-4ab7-812c-e733b3abda09)
+
 
 
 
