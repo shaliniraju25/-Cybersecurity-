@@ -37,7 +37,13 @@ Cybersecurity incidents are becoming more frequent and sophisticated. The goal o
 2. **Exploratory Data Analysis (EDA)**:
    - Investigated incident frequency, attack vectors, and correlations between features.
    - Visualized the top incident categories and trends over time.
-   ![image](https://github.com/user-attachments/assets/01723739-dadd-4b80-baa3-2765ad1734cf)
+     
+![image](https://github.com/user-attachments/assets/01723739-dadd-4b80-baa3-2765ad1734cf)
+![image](https://github.com/user-attachments/assets/ae9f2b1f-d53f-4de3-aae8-b5f11b05bb98)
+![image](https://github.com/user-attachments/assets/afaf7b7e-59a5-4899-bd0e-41695634e504)
+![image](https://github.com/user-attachments/assets/b334ab45-f346-490a-a574-c6f0bf6ab493)
+![image](https://github.com/user-attachments/assets/7a7a4dd8-869c-4779-a672-7576aef84406)
+
 
 
 ### II. Data Balancing Techniques
@@ -157,3 +163,6 @@ This deployment enhances the operational efficiency of SOC teams, enabling them 
 
 The **Random Forest** model has demonstrated superior performance in classifying cybersecurity incidents, outpacing alternative models through its robust accuracy and adaptability. This project not only establishes a reliable framework for incident classification but also delivers a scalable solution tailored for Security Operations Center (SOC) teams.
 
+---
+## THANK YOU...
+---
